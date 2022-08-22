@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442203299898",
+    "project_id": "geosphere-login",
+    "storage_bucket": "geosphere-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442203299898:android:838877c221d246b3c2d503",
+        "android_client_info": {
+          "package_name": "com.vc.geosphere_googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442203299898-ufvoh7un0e3ermrl1t6blbrpdsf8m0kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMQLBlAtdt0qWZIEeUV_8XQl1q83NAlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442203299898-ufvoh7un0e3ermrl1t6blbrpdsf8m0kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
